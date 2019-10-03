@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ziashathu.ops-coffee.cn/sitemap.xml
